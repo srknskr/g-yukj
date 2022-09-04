@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, Serkan!")
             .padding()
-            .shadow(color: Color.blue, radius: 2, x: 2, y: 2)
+            .shadow(color: Color.red, radius: 2, x: 2, y: 2)
     }
 }
 
